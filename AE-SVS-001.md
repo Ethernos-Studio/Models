@@ -15,5 +15,5 @@ AE-SVS-001包含Mon3tr-Chinese GPT模型的两个版本和变体：
 设备：
 - CPU: `13th Gen Intel(R) Core(TM) i7-13650HX (20) @ 4.90 GHz`
 - GPU:
-  - 0: NVIDIA GeForce RTX 4060 Laptop GPU @ 3.10 GHz (7.77 GiB)
-- OS: Windows 11 专业工作站版 x86_64
+  - 0: `NVIDIA GeForce RTX 4060 Laptop GPU @ 3.10 GHz (7.77 GiB)`
+- OS: `Windows 11 专业工作站版 x86_64`

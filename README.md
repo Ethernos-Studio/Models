@@ -1,5 +1,5 @@
 # Models
-包含提前训练好的一些AI模型(在Release里)
+包含提前训练好的一些AI模型(在[Release](https://github.com/Ethernos-Studio/Models/releases)里)
 
 ## License
 

@@ -33,3 +33,9 @@ AE-SVS-008包含TogawaSakiko-Special RVC模型的一个版本和变体：
  - 芯片: NVIDIA
  - CPU架构: x86_64
  - CUDA:12.1
+
+## 怎么选？
+
+在Release里，你通常能够看见不同的模型变体，这些变体有两种：
+ - 1: 大小变体：在模型名称末尾，L代表Little， M代表Middle, F代表Full
+ - 2: 轮数变体：一个模型有不同的轮数(exxx)，通常轮数越高模型越好，非专业用户直接选最高的或Best即可

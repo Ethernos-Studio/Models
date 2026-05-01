@@ -2,6 +2,7 @@
 
 AE-SVS-008包含TogawaSakiko-Special RVC模型的一个版本和变体：
 - R2-TS-S-F (e100, e200, e250, e300, Best)
+
 包含TogawaSakiko-Special RVC模型的索引文件:
 - added_IVF329_Flat_nprobe_1_R2-TS-S-F_v2
 

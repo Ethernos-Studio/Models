@@ -34,7 +34,7 @@
    使用本模型生成的任何作品（音频、视频、直播等），必须在显著位置标注：
    - "AI 合成声音" / "AI-generated Voice"
    - "声源：明日方舟（鹰角网络）"
-   - "技术实现：Ethernos Studio / RVC"
+   - "技术实现：Ethernos Studio "
    - **禁止声称该声音为真人配音或官方出品**
 
 4. **年龄限制（Age Restriction）**  

@@ -1,6 +1,6 @@
 # ArkEcho项目 统一声明
 
-## 【第零条：技术本质声明】
+## 【第〇条：技术本质声明】
 
 本仓库（Repository）所包含的所有人工神经网络（Artificial Neural Network）权重文件（.pth/.index）、训练日志及相关代码，均为**计算声学（Computational Acoustics）与深度学习（Deep Learning）领域的技术研究实验产物**。
 

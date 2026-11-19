@@ -9,6 +9,7 @@
 （优先训练）
 
 - 2026/10/27: 铃兰中文模型 R2-Suzuran-Chinese-X
-- 2026/11/18: 黍中文模型 R2-Shu-Chinese
+- 2026/11/18: 黍中文模型 R2-Shu-Chinese-X
+- 2026/11/19：斯卡蒂中文模型 R2-Skadi-Chinese-X
 
 （排后训练）
